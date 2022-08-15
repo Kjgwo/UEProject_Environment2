@@ -68,6 +68,7 @@ SnowyVillage/Saved/*
 
 # Compiled source files for the engine to use
 SnowyVillage/Intermediate/*
+City/Intermediate/*
 Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
@@ -77,3 +78,6 @@ DerivedDataCache/*
 SnowyVillage/Content/StarterContent
 SnowyVillage/Content/PhotoR_Backgrounds
 SnowyVillage/Content/Megascans
+City/Content/StarterContent
+City/Content/PhotoR_Backgrounds
+City/Content/Megascans
